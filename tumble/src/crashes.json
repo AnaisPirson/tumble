@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "date": "2026-07-06",
+    "time": "06:15",
+    "lat": 52.364130,
+    "lng": 4.794006,
+    "location": "Reimerswaalstraat",
+    "severity": 4,
+    "severityLabel": "Hospital / Urgent Care",
+    "cause": "Pedestrian / Cyclist collision",
+    "notes": "E-bike tried to take over without notifying me. I jumped and we crashed into a tree. He broke his ankle but I just cut my finger. Police were called."
+  },
+    {
+    "id": 2,
+    "date": "2026-05-15",
+    "time": "17:05",
+    "lat": 52.357746,
+    "lng": 4.833257,
+    "location": "Lelylaan",
+    "severity": 2,
+    "severityLabel": "Road Rash",
+    "cause": "Braking / Cornering error",
+    "notes": "Took the turn too sharply and skidded"
+  },
+    {
+    "id": 3,
+    "date": "2026-05-17",
+    "time": "09:15",
+    "lat": 52.375478,
+    "lng": 4.819345,
+    "location": "Noorderhof",
+    "severity": 2,
+    "severityLabel": "Road Rash",
+    "cause": "Braking / Cornering error",
+    "notes": "Took the turn too sharply and skidded..again on a roundabout. Some teen on a fat bike stopped and helped."
+  },
+    {
+    "id": 4,
+    "date": "2026-09-27",
+    "time": "03:00",
+    "lat": 52.359589,
+    "lng": 4.894519,
+    "location": "De Weteringschans",
+    "severity": 1,
+    "severityLabel": "Tip-over",
+    "cause": "Drinking & Driving",
+    "notes": "Had too much to drink and hit a curb. Strangers picked me up"
+  }
+]
