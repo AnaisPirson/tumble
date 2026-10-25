@@ -46,5 +46,17 @@
     "severityLabel": "Tip-over",
     "cause": "Drinking & Driving",
     "notes": "Had too much to drink and hit a curb. Strangers picked me up"
+  },
+    {
+    "id": 4,
+    "date": "2026-10-25",
+    "time": "02:00",
+    "lat": 52.387557,
+    "lng": 4.875059,
+    "location": "Westepark",
+    "severity": 3,
+    "severityLabel": "Mechanical/Sprain",
+    "cause": "Drinking & Driving",
+    "notes": "George cut me off and I fell. Bike broke and had to ditch it. Spained finger & scrapes & bruises"
   }
 ]
