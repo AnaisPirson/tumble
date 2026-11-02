@@ -58,5 +58,17 @@
     "severityLabel": "Mechanical/Sprain",
     "cause": "Drinking & Driving",
     "notes": "George cut me off and I fell. Bike broke and had to ditch it. Spained finger & scrapes & bruises"
+  },
+    {
+    "id": 6,
+    "date": "2026-11-01",
+    "time": "09:20",
+    "lat": 52.375478,
+    "lng": 4.819345,
+    "location": "Noorderhof",
+    "severity": 1,
+    "severityLabel": "Tip-over",
+    "cause": "Other",
+    "notes": "Hit by a Tesla on the roundabout...If Im going down, Im doing so in style! The guy ran out apologising and gave me a hug"
   }
 ]
